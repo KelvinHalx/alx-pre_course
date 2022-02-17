@@ -1,0 +1,14 @@
+// calculate the sum of squares of given input of numbers
+The task is to find 
+   sum = (1^2) + (2^2) + (3^2) + .... + (n^2)
+
+1. START.
+2. Input the List of numbers. 
+3. For each number in the list Square the number.
+4. Sum the squares.
+5. Return the result.
+6. STOP
+
+
+
+
